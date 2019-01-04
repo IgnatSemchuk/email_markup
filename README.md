@@ -6,6 +6,8 @@ To look desktop version let visit [link][1]
 
 ![email markup](https://raw.githubusercontent.com/IgnatSemchuk/ma_email/master/images/email_markup.jpg)
 
+Email codestyle was made by the `prettier`
+
 ## How to use
 To send email by google mail: 
 1. select input field in `devtools` 
