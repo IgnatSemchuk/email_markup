@@ -2,7 +2,7 @@
 
 To look desktop version let visit [link][1]
 
-[1]: https://ignatsemchuk.github.io/ma_email/
+[1]: https://ignatsemchuk.github.io/email_markup/
 
 ![email markup](https://raw.githubusercontent.com/IgnatSemchuk/ma_email/master/images/email_markup.jpg)
 
